@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\My Zone\\MVC\\DoctorsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|f:\\my zone\\mvc\\doctorsapp\\doctorsapp\\views\\doctors\\indexdoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|solutionrelative:doctorsapp\\views\\doctors\\indexdoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|f:\\my zone\\mvc\\doctorsapp\\doctorsapp\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|solutionrelative:doctorsapp\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|f:\\my zone\\mvc\\doctorsapp\\doctorsapp\\views\\doctors\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|solutionrelative:doctorsapp\\views\\doctors\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|f:\\my zone\\mvc\\doctorsapp\\doctorsapp\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|solutionrelative:doctorsapp\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|f:\\my zone\\mvc\\doctorsapp\\doctorsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|solutionrelative:doctorsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|f:\\my zone\\mvc\\doctorsapp\\doctorsapp\\data\\applicationdpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|solutionrelative:doctorsapp\\data\\applicationdpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|f:\\my zone\\mvc\\doctorsapp\\doctorsapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|solutionrelative:doctorsapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_4GCEQN4_MSSQL/DoctorsData/True/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|f:\\my zone\\mvc\\doctorsapp\\doctorsapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|solutionrelative:doctorsapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|f:\\my zone\\mvc\\doctorsapp\\doctorsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB22D6B-68DB-4FC4-8D8F-3663A6E7786E}|DoctorsApp\\DoctorsApp.csproj|solutionrelative:doctorsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DoctorsApp\\wwwroot\\js\\site.js",
+              "ToolTip": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DoctorsApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-25T12:39:33.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cshtml",
+              "DocumentMoniker": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Views\\Doctors\\Appointment.cshtml",
+              "RelativeDocumentMoniker": "DoctorsApp\\Views\\Doctors\\Appointment.cshtml",
+              "ToolTip": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Views\\Doctors\\Appointment.cshtml",
+              "RelativeToolTip": "DoctorsApp\\Views\\Doctors\\Appointment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T19:57:41.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "DoctorsApp\\Controllers\\DoctorsController.cs",
+              "ToolTip": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "DoctorsApp\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:51:13.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorsApp\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "DoctorsApp\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T17:18:38.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDpContext.cs",
+              "DocumentMoniker": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Data\\ApplicationDpContext.cs",
+              "RelativeDocumentMoniker": "DoctorsApp\\Data\\ApplicationDpContext.cs",
+              "ToolTip": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Data\\ApplicationDpContext.cs",
+              "RelativeToolTip": "DoctorsApp\\Data\\ApplicationDpContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:50:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoctorsApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoctorsApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABYAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:15:23.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexDoctors.cshtml",
+              "DocumentMoniker": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Views\\Doctors\\IndexDoctors.cshtml",
+              "RelativeDocumentMoniker": "DoctorsApp\\Views\\Doctors\\IndexDoctors.cshtml",
+              "ToolTip": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Views\\Doctors\\IndexDoctors.cshtml",
+              "RelativeToolTip": "DoctorsApp\\Views\\Doctors\\IndexDoctors.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:56:54.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Doctors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_4GCEQN4_MSSQL/DoctorsData/True/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "dbo.Doctors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-24T12:31:59.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "DoctorsApp\\Models\\Doctor.cs",
+              "ToolTip": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Models\\Doctor.cs",
+              "RelativeToolTip": "DoctorsApp\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:51:05.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorsApp\\Program.cs",
+              "ToolTip": "F:\\My Zone\\MVC\\DoctorsApp\\DoctorsApp\\Program.cs",
+              "RelativeToolTip": "DoctorsApp\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:37:09.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

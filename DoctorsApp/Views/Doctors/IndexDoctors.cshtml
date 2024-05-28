@@ -1,0 +1,24 @@
+﻿
+@{
+    <h1>Book Appointment</h1>
+    <div class="card-group">
+        @{
+            foreach (var item in Model)
+            {
+                <div class="card">
+                    <img src="~/Imgs/@item.Img" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            @item.Name
+                        </h5>
+                        <p class="card-text">Specialization: 
+                            @item.Specialization</p>
+                    </div>
+                    <div class="card-footer">
+                        <a class="btn btn-primary" href="https://localhost:7224/doctors/Appointment?id=@item.Id" role="button">Book Appointment</a>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+}
